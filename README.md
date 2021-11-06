@@ -2,6 +2,7 @@
 w0d0_precourse-challenge-JamesGaynor created by GitHub Classroom
 
 A Tribute To Paul Trouble Anderson
+
 This is a project for a pre course challenge set and supported by School of Code. 
 The challenge was to host a web page tribute to anybody of our choosing.
 I chose the DJ Paul Trouble Anderson as he was a big inspiration to me as a DJ and is often, in my opinion, undervalued for his contribution to dance music.
