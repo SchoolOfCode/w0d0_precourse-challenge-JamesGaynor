@@ -15,7 +15,9 @@ html {
   }
   
   h1 {
-    font-size: 4rem;
+    color: rgb(240, 21, 32);
+    background-color: black;
+    font-size: 80px;
     margin-bottom: 0;
   }
   
